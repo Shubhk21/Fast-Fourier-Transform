@@ -2,7 +2,7 @@
 	
 	I have used python for this project which provided some inbuild libraries to store complex numbers and also calculate the math computation easily. For task 2 and 3 I have 
 	used common FFT function as it remains same for both which removed the code redundancy. Basically all the tasks are performed in single python script and using command line
-	we can perform all of them easily ex " python project1 DFT-Horner inputfile.txt outputfile.txt".
+	we can perform all of them easily ex " python FFT DFT-Horner inputfile.txt outputfile.txt".
 		
 
 
